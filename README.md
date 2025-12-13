@@ -1,16 +1,78 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shreyas</h1>
+<h3 align="center">✨ Computer Science Undergraduate | Applied AI & Machine Learning | Full-Stack Development</h3>
 
-<!--
-**dmshreyas28/dmshreyas28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💡 About Me
+- 🎓 I'm a **3rd-year B.Tech student in Computer Science & Engineering** at **Manipal University Jaipur**
+- 💻 Interested in the intersection of **AI, Machine Learning, Backend Systems, and Web Development**
+- 🌱 Currently learning **Next.js, FastAPI, and advanced ML frameworks**
+- 💬 Ask me about **Python, Databases, APIs, or Machine Learning**
+- ⚡ Fun fact: I enjoy blending **analytical thinking with creativity** to build practical tech solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Tech Stack Overview
+
+#### 🖥️ Programming & Scripting
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,typescript,c,html,css,sql,mysql" />
+</p>
+
+#### 🧩 Object-Oriented Programming
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java" />
+</p>
+
+#### 🧮 Data Structures & Algorithms
+- Arrays • Linked Lists • Dynamic Programming • Sorting & Searching  
+
+#### 🤝 Collaboration & Soft Skills
+- Team coordination • Leadership • Stakeholder communication • Technical documentation  
+
+#### ⚙️ Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flask,nodejs,fastapi,sklearn,pytorch,streamlit" />
+</p>
+
+#### 🧬 AI / Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+- Supervised Learning • Feature Engineering • Model Evaluation • Explainable AI (SHAP)  
+
+#### 🛠️ Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker,vercel,firebase" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+- **PeoplePulse** — Employee Attrition Prediction & Retention Platform  
+  *Applied ML, Explainable AI, FastAPI, Full-Stack Development*
+
+- **MovieFanatic** — Content-Based Movie Recommendation System  
+  *TF-IDF, Cosine Similarity, Streamlit, Machine Learning*
+
+---
+
+### 📫 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/dmshreyas28"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/dmshreyas28"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&logo=github&logoColor=white" /></a>
+  <a href="mailto:dmshreyas28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 🏆 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dmshreyas28&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dmshreyas28&theme=tokyonight" />
+</p>
+
+---
+
+⭐️ From [Shreyas](https://github.com/dmshreyas28)
