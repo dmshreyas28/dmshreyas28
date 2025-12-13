@@ -72,7 +72,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dmshreyas28&show_icons=true&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dmshreyas28&theme=tokyonight" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=dmshreyas28&theme=dark&hide_border=false"/>
 </p>
 
 ---
