@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shreyas</h1>
-<h3 align="center">✨ Computer Science Undergraduate | Applied AI & Machine Learning | Full-Stack Development</h3>
+<h3 align="center">✨ Computer Science Undergraduate | Applied AI & Machine Learning </h3>
 
 ---
 
 ### 💡 About Me
-- 🎓 I'm a **3rd-year B.Tech student in Computer Science & Engineering** at **Manipal University Jaipur**
-- 💻 Interested in the intersection of **AI, Machine Learning, Backend Systems, and Web Development**
+- 🎓 I'm a **3rd-year B.Tech CSE Student**
+- 💻 Working across **AI/ML, backend engineering, and web applications**
 - 🌱 Currently learning **Next.js, FastAPI, and advanced ML frameworks**
-- 💬 Ask me about **Python, Databases, APIs, or Machine Learning**
+- 💬 Comfortable with **Python, Databases, APIs, or Machine Learning**
 - ⚡ Fun fact: I enjoy blending **analytical thinking with creativity** to build practical tech solutions
 
 ---
@@ -16,7 +16,7 @@
 
 #### 🖥️ Programming & Scripting
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,typescript,c,html,css,sql,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,c,html,css,mysql" />
 </p>
 
 #### 🧩 Object-Oriented Programming
@@ -32,8 +32,9 @@
 
 #### ⚙️ Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flask,nodejs,fastapi,sklearn,pytorch,streamlit" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flask,nodejs,fastapi,py,sklearn,pytorch,streamlit" />
 </p>
+
 
 #### 🧬 AI / Machine Learning
 <p align="left">
@@ -71,6 +72,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dmshreyas28&show_icons=true&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dmshreyas28&theme=tokyonight" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=dmshreyas28&theme=dark&hide_border=false"/>
 </p>
 
 ---
