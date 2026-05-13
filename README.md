@@ -4,11 +4,11 @@
 ---
 
 ### 💡 About Me
-- 🎓 I'm a **3rd-year B.Tech CSE Student**
-- 💻 Working across **AI/ML, backend engineering, and web applications**
-- 🌱 Currently learning **Next.js, FastAPI, and advanced ML frameworks**
-- 💬 Comfortable with **Python, Databases, APIs, or Machine Learning**
-- ⚡ Fun fact: I enjoy blending **analytical thinking with creativity** to build practical tech solutions
+- I'm a **3rd-year B.Tech CSE Student**
+- Working across **AI/ML, backend engineering, and web applications**
+- Currently learning **Next.js, FastAPI, and advanced ML frameworks**
+- Comfortable with **Python, Databases, APIs, or Machine Learning**
+- Fun fact: I enjoy blending **analytical thinking with creativity** to build practical tech solutions
 
 ---
 
