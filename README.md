@@ -58,7 +58,7 @@
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/dmshreyas28"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/dmshreyas28"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&logo=github&logoColor=white" /></a>
@@ -67,7 +67,7 @@
 
 ---
 
-### 🏆 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dmshreyas28&show_icons=true&theme=tokyonight" />
   <br/>
@@ -76,4 +76,4 @@
 
 ---
 
-⭐️ From [Shreyas](https://github.com/dmshreyas28)
+From [Shreyas](https://github.com/dmshreyas28)
