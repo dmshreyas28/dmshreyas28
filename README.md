@@ -24,7 +24,7 @@
 ```python
 class Shreyas:
     def __init__(self):
-        self.name        = "Shreyas D.M."
+        self.name        = "D M Shreyas"
         self.role        = "Data Scientist & ML Engineer"
         self.location    = "India 🇮🇳"
         self.code        = ["Python", "SQL", "JavaScript"]
